@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://sbermed.ai/postanovka-diagnoza-neyrosetyu",
+    "name": "Искусственный интеллект (ИИ) в диагностике",
+    "snippet": "Искусственный интеллект способен обнаруживать и классифицировать патологические образования . Для этого он анализирует изображения, полученные с помощью ...\nНейросети учатся анализировать электрофизиологические сигналы. В случае с данными электрокардиографии (ЭКГ), искусственный интеллект выявляет признаки сердечно‑сосудистых заболеваний.",
+    "host_name": "sbermed.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sberhealth.ru/library/zdorove/iskusstvennyy-intellekt-v-diagnostike-kak-ii-menyaet-analiz-meditsinskikh-snimkov",
+    "name": "Искусственный интеллект в диагностике: как ИИ меняет",
+    "snippet": "Сегодняшний искусственный интеллект уже используется для диагностики , которая осуществляется по медицинским снимкам. Он повышает точность, быстроту и ...",
+    "host_name": "sberhealth.ru",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.swissinfo.ch/rus/%D0%B8%D0%B8-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0/how-ai-is-used-in-diagnostics/90990035",
+    "name": "Как ИИ помогает врачам ставить диагноз",
+    "snippet": "6 days ago — Врачи всё чаще используют нейросети, чтобы находить болезни и следить за состоянием пациентов. Но значит ли это, что роботы скоро оставят ...",
+    "host_name": "www.swissinfo.ch",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ultralytics.com/ru/blog/vision-ai-tools-for-healthcare-diagnostics",
+    "name": "Роль искусственного интеллекта в диагностике",
+    "snippet": "29 Jan 2026 — ИИ может использоваться для поддержки диагностики в здравоохранении на нескольких этапах. Он может работать от первоначального анализа ...",
+    "host_name": "www.ultralytics.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://webiomed.ai/blog/obzor-rossiiskikh-sistem-iskusstvennogo-intellekta-dlia-zdravookhraneniia",
+    "name": "Обзор Российских систем искусственного интеллекта",
+    "snippet": "4 days ago — 1, BrainPhone. Диагностика и мониторинг болезни Паркинсона по голосу на основе ИИ , https://brainphone.ru/ ; 2, Scanderm. Медицинская ...",
+    "host_name": "webiomed.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://institut-medicina.ru/info/ii-protiv-vrachey-kakie-diagnozy-uzhe-stavit-iskusstvennyy-intellekt",
+    "name": "какие диагнозы уже ставит искусственный интеллект?",
+    "snippet": "29 Jul 2025 — Искусственный интеллект уже умеет ставить диагнозы с точностью до 97 % и справляется со сложными клиническими случаями лучше врачей.",
+    "host_name": "institut-medicina.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thirdopinion.ai/morphology",
+    "name": "Искусственный интеллект в лабораторной диагностике",
+    "snippet": "Точность 97% · ИИ-сервис подсчитывает клетки в поле зрения микроскопа и определяет их ти п · По результатам внутреннего тестирования. Работает ...",
+    "host_name": "thirdopinion.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cyberleninka.ru/article/n/iskusstvennyy-intellekt-v-diagnostike-perspektivy-i-vyzovy",
+    "name": "Искусственный интеллект в диагностике: перспективы и",
+    "snippet": "2025 — Применение ИИ позволяет значительно повысить точность диагностики , ускорить процесс принятия решений и индивидуализировать подходы к лечению. В условиях ...\nАннотация. Искусственный интеллект играет важную роль в современной медицине, способствуя улучшению диагностики, лечения и профилактики заболеваний.",
+    "host_name": "cyberleninka.ru",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sber.pro/publication/proriv-v-diagnostike-iskusstvennii-intellekt-menyaet-zdravoohranenie",
+    "name": "Прорыв в диагностике. Искусственный интеллект",
+    "snippet": "1 Oct 2024 — «Умный» помощник за несколько минут анализирует рентгенограмму или снимок КТ пациента , помогает оперативно поставить диагноз и назначить лечение ...",
+    "host_name": "sber.pro",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ru.euronews.com/health/2026/03/16/from-diagnosis-to-data-how-ai-is-reshaping-healthcare-and-raising-ethical-questions",
+    "name": "От диагностики до данных: как ИИ меняет медицину и ставит",
+    "snippet": "Может ли ИИ менять медицину, не усиливая неравенство и не опережая правила? Будущее цифрового здравоохранения Европы обсудят 17 марта на Euronews Health Summit в Брюсселе.",
+    "host_name": "ru.euronews.com",
+    "rank": 9,
+    "date": "Mar 16, 2026",
+    "favicon": ""
+  }
+]

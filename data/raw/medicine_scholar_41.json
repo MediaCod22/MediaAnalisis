@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.ibm.com/think/topics/interoperability-in-healthcare",
+    "name": "What Is Interoperability in Healthcare?",
+    "snippet": "Interoperability in healthcare refers to the secure access and integration of electronic health data so it can be used to optimize health outcomes.",
+    "host_name": "www.ibm.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9875417",
+    "name": "Interoperability of heterogeneous health information systems",
+    "snippet": "2023 · Cited by 478 — The lack of interoperability between health information systems reduces the quality of care provided to patients and wastes resources.\nThe lack of interoperability between health information systems reduces the quality of care provided to patients and wastes resources. Accordingly, there is an urgent need to develop integration mechanisms among the various health information ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.oracle.com/health/interoperability-healthcare",
+    "name": "Interoperability in Healthcare Explained",
+    "snippet": "24 Jun 2024 — Interoperability is the capacity for each system on a network to communicate with other systems to share, consolidate, and use data.\nInteroperability in healthcare describes the capacity for disparate health data systems to share data, regardless of geographic location, and allow that data to be used by providers, researchers, and public health managers to improve patient experiences and community health.",
+    "host_name": "www.oracle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://healthit.gov/interoperability",
+    "name": "Interoperability - ASTP - Assistant Secretary for Technology",
+    "snippet": "18 Dec 2025 — Interoperability helps clinicians deliver safe, effective, patient-centered care . It also provides new ways for individuals and caregivers to ...",
+    "host_name": "healthit.gov",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6153178",
+    "name": "Interoperability: What Is It, How Can We Make It Work  - PMC",
+    "snippet": "2018 · Cited by 46 — Early economic models of electronic health record adoption suggest the vast majority of financial benefits occur if interoperability is present.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.hipaajournal.com/interoperability-in-healthcare",
+    "name": "Interoperability in Healthcare",
+    "snippet": "5 Jan 2024 — Interoperability in healthcare means making sure information technology systems and software solutions work together seamlessly to exchange, interpret, and use ...",
+    "host_name": "www.hipaajournal.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/health-informatics-driving-innovation-healthcare-through-sean-kelley-5xhze",
+    "name": "Health Informatics: Driving Innovation in Healthcare",
+    "snippet": "One of the most crucial aspects of health informatics is interoperability —the ability for different health information systems to communicate ...",
+    "host_name": "www.linkedin.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wolterskluwer.com/en/expert-insights/understand-the-four-levels-of-interoperability-in-healthcare",
+    "name": "Understand the four levels of interoperability in healthcare",
+    "snippet": "20 Jun 2025 — Foundational interoperability is the most basic level . It allows one health IT system to send data to another. You can think of it as “opening ...",
+    "host_name": "www.wolterskluwer.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.medidata.com/en/life-science-resources/medidata-blog/interoperability-in-healthcare",
+    "name": "Clinical Interoperability: Everything You Need to Know",
+    "snippet": "25 Nov 2024 — Interoperability enables quick, efficient, streamlined, and accessible routes to monitor health trends, track diseases, identify research and ...",
+    "host_name": "www.medidata.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cms.gov/priorities/burden-reduction/overview/interoperability",
+    "name": "Interoperability | CMS",
+    "snippet": "Our mission, vision, and the role we play in advancing interoperability. Current and proposed policies aimed at improving patient care through the secure exchange of data. Implementation Guides (IGs) to help you adopt HL7® Fast Healthcare Interoperability Resources® (FHIR®).",
+    "host_name": "www.cms.gov",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,27 @@
+# Dependencies for MediaAnalisis project
+
+# Core
+python>=3.8
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Web search (if using z-ai SDK)
+# z-ai-web-dev-sdk>=1.0.0
+
+# JSON processing (built-in)
+# json
+
+# File handling (built-in)
+# pathlib
+# os
+# subprocess
+
+# Optional: visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Optional: statistics
+scipy>=1.9.0
+statsmodels>=0.13.0

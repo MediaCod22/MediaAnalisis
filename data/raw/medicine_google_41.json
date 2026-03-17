@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.ibm.com/think/topics/interoperability-in-healthcare",
+    "name": "What Is Interoperability in Healthcare?",
+    "snippet": "Interoperability in healthcare refers to the secure access and integration of electronic health data so it can be used to optimize health outcomes.",
+    "host_name": "www.ibm.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cdc.gov/data-interoperability/php/about/index.html",
+    "name": "About Public Health Data Interoperability | PHDI",
+    "snippet": "Dec 30, 2025 — Public Health Data Interoperability provides tools, support, and resources to ensure timely and secure sharing of data for public health ...",
+    "host_name": "www.cdc.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cubig.ai/blogs/healthcare-data-interoperability-standards-examples-importance-explained",
+    "name": "Healthcare Data Interoperability: Standards, Examples",
+    "snippet": "Jun 19, 2025 — Healthcare data interoperability refers to the capacity of various health information systems—such as electronic health records (EHRs), ...",
+    "host_name": "cubig.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.medidata.com/en/healthcare-data-interoperability",
+    "name": "Healthcare Data Interoperability",
+    "snippet": "The benefits of interoperable data for the clinical research and ...",
+    "host_name": "www.medidata.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594855",
+    "name": "WHY INTEROPERABILITY IS ESSENTIAL IN HEALTH CARE",
+    "snippet": "Health care organizations are uniquely positioned to accelerate interoperability through the use of a more disciplined process by which to procure technologies.",
+    "host_name": "www.ncbi.nlm.nih.gov",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.salesforce.com/healthcare/providers/healthcare-data-interoperability",
+    "name": "What Is Interoperability in Healthcare?",
+    "snippet": "Interoperability in healthcare is the ability of different systems and providers to share and use patient information smoothly and securely to improve care. It ...",
+    "host_name": "www.salesforce.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://healthit.gov/interoperability",
+    "name": "Interoperability - ASTP - Assistant Secretary for Technology",
+    "snippet": "Dec 18, 2025 — Explore the essentials of interoperability in health IT, including TEFCA, information blocking, and USCDI for seamless healthcare data ...",
+    "host_name": "healthit.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cloud.google.com/resources/healthcare-data-interoperability-ebook?hl=ko",
+    "name": "Healthcare Data Interoperability: Fulfilling the promise of",
+    "snippet": "How to strengthen security, privacy, and compliance through effective data interoperability .",
+    "host_name": "cloud.google.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://worldscientificnews.com/a-critical-review-of-health-data-interoperability-standards-fhir-hl7-and-beyond",
+    "name": "A Critical Review of Health Data Interoperability Standards",
+    "snippet": "May 13, 2025 — Health data interoperability is essential for enabling seamless communication, data sharing, and coordinated care across diverse healthcare ...",
+    "host_name": "worldscientificnews.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/what-health-data-interoperability-why-so-hard-thomas-webb-bc3ae?utm_source=rss&utm_campaign=articles_sitemaps",
+    "name": "What is health data interoperability and why is it so hard?",
+    "snippet": "Healthcare interoperability isn't a technological challenge, it's a challenge borne of the complexity of clinical practice, language and ...",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

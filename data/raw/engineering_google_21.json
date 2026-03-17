@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1fabmv9/how_do_you_make_complex_technical_decisions",
+    "name": "How do you make complex technical decisions?",
+    "snippet": "For questions like this I always recommend learning about data oriented design . You need to understand the volume and expected shape of your ...",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cm-well.github.io/CM-Well/Introduction/Intro.TechnicalDecisionsInCM-WellDesign.html",
+    "name": "Technical Design Decisions - CM-Well",
+    "snippet": "This page describes CM-Well's main technical features and design principles , the implementation options that were considered, and the decisions that were taken.",
+    "host_name": "cm-well.github.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@andreasherman/practical-guide-to-engineering-design-decisions-14577685737a",
+    "name": "Practical Guide to Engineering Design Decisions",
+    "snippet": "Statement: What decision is made ? · Rationale: Why is this the right choice? What alternatives were considered?\nTeams waste hours rediscovering decisions, debating already-settled questions, and sometimes reversing good choices because the reasoning was lost. But here’s the trap: documenting every ...",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://brianchastain.com/blog/the-art-of-technical-decision-making",
+    "name": "The Art of Technical Decision Making | Brian Chastain",
+    "snippet": "Feb 19, 2024 — Your job isn't just to design systems. Your job is to create the conditions for those systems to succeed. Architecture is the blueprint.",
+    "host_name": "brianchastain.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/siddharth_g/demystifying-the-technical-design-document-a-guide-for-software-engineers-1fk1",
+    "name": "Technical Design Document: A Guide for Software Engineers",
+    "snippet": "Jun 12, 2023 — Specify the design goals and any constraints that may impact the system's architecture and implementation. This section helps align the team's ...\nOne essential tool that facilitates these aspects is the Technical Design Document (TDD). In this blog post, we will demystify the TDD, explaining what it is, why it is crucial, and what key elements it should include.",
+    "host_name": "dev.to",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://doug.tistory.com/163",
+    "name": "Design Decision Model - Douglas' Space - 티스토리",
+    "snippet": "Sep 30, 2023 — 1. 들어가면서 System Design 이란 시스템의 구성요소인 하드웨어 컴포넌트들, 소프트웨어 컴포넌트들, 그리고 이들의 정적 및 동적 관계를 식별하는 ...",
+    "host_name": "doug.tistory.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/joelparkerhenderson/architecture-decision-record",
+    "name": "Architecture decision record (ADR) examples for software",
+    "snippet": "An architecture decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1474034621001191",
+    "name": "Integrating and navigating engineering design decision",
+    "snippet": "2021 · Cited by 90 — In this paper we propose a knowledge-graph-based method for integrating and navigating decision-related knowledge in engineering design.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://uxcam.com/blog/design-decisions",
+    "name": "Design Decisions - How to Make and Justify Them | Guide",
+    "snippet": "Oct 24, 2024 — A design decision uses data to prioritize user needs over design bias . Understanding human behaviors through analytics makes it easier to create effective ...",
+    "host_name": "uxcam.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thedevlog.substack.com/p/making-better-technical-decisions",
+    "name": "Making Better Technical Decisions: A Simple Framework That Works",
+    "snippet": "So how do we avoid decision fatigue, avoid groupthink, and make thoughtful, transparent, and context-aware choices? Let me introduce you to a simple but powerful tool:",
+    "host_name": "thedevlog.substack.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

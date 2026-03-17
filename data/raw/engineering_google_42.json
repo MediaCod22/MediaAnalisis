@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://inductiveautomation.com/resources/article/what-is-scada",
+    "name": "What is SCADA? Supervisory Control and Data Acquisition",
+    "snippet": "8 hours ago — SCADA is a system of software and hardware elements that allows organizations to control and monitor industrial processes by directly interfacing with plant- ...",
+    "host_name": "inductiveautomation.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.uptimeai.com/resources/scada-data-analytics",
+    "name": "SCADA Data Analytics: The Why and The How",
+    "snippet": "With SCADA data analytics , turn your operational data into rich insights to achieve cost benefits, improved uptime, and peak productivity. Learn how.",
+    "host_name": "www.uptimeai.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://etechgroup.com/comparing-industrial-data-analytics-vs-scada-systems",
+    "name": "SCADA Systems vs Data Analytics: A Comparative Analysis",
+    "snippet": "They provide centralized supervisory control, real-time process monitoring, and alert systems that facilitate more efficient, safe, and reliable operations.",
+    "host_name": "etechgroup.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.fortinet.com/resources/cyberglossary/scada-and-scada-systems",
+    "name": "What Is SCADA and SCADA System?",
+    "snippet": "SCADA is a system used to monitor and analyze data , and control industrial processes. Securing SCADA systems is crucial and vital to the safe operations of ...",
+    "host_name": "www.fortinet.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.splunk.com/en_us/blog/learn/scada-systems.html",
+    "name": "SCADA Systems: What They Are & How They Work",
+    "snippet": "Dec 18, 2024 — SCADA systems help organizations to better control, monitor, and analyze their industrial devices and industrial processes.",
+    "host_name": "www.splunk.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://explitia.com/blog/what-is-scada-system-and-why-should-you-know-it",
+    "name": "SCADA system – solution for production process monitoring",
+    "snippet": "Jul 24, 2025 — A SCADA system is a solution that helps monitor and optimize production. See what benefits it can bring you.",
+    "host_name": "explitia.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.aknitech.in/blog/how-scada-data-analytics-works",
+    "name": "SCADA Data Analytics | AKNITech Industrial Insights",
+    "snippet": "Nov 7, 2025 — SCADA (Supervisory Control and Data Acquisition) systems collect, control, and visualize data from industrial machines and processes. When ...",
+    "host_name": "www.aknitech.in",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.aveva.com/en/solutions/operations/scada/what-is-scada",
+    "name": "What is SCADA? | Supervisory Control and Data Acquisition",
+    "snippet": "SCADA software receives and processes machinery, equipment, and device data and displays that data on screens and dashboards, often in animated graphs, diagrams ...",
+    "host_name": "www.aveva.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stlpartners.com/articles/edge-computing/scada",
+    "name": "What is SCADA? Supervisory Control and Data Acquisition",
+    "snippet": "SCADA , or Supervisory Control and Data Acquisition, is a system that combines software and hardware to control and monitor industrial processes.",
+    "host_name": "stlpartners.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tatsoft.com/scada-system-solutions-guide",
+    "name": "What Are SCADA System Solutions? Full Guide 2025",
+    "snippet": "SCADA system solutions are the backbone of modern industrial automation , allowing real-time control, monitoring, and analytics across manufacturing, energy, ...",
+    "host_name": "tatsoft.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

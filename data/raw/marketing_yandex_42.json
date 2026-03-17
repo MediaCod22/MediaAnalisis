@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://habr.com/ru/articles/770826",
+    "name": "Атрибуция в маркетинге или «не все так однозначно",
+    "snippet": "Oct 30, 2023 — Атрибуция на основе позиции – модель , отдающая по 40% веса конверсии первому и последнему источнику взаимодействия, а остальную ценность делит ... Read more",
+    "host_name": "habr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://netology.ru/blog/02-2023-attribution-models",
+    "name": "Что такое модели атрибуции | Медиа Нетологии",
+    "snippet": "Feb 22, 2023 — Модель атрибуции — это алгоритм, по которому система аналитики присваивает конверсию, или достижение определённой цели, тому или иному ... Read more",
+    "host_name": "netology.ru",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://roistat.com/rublog/model-atributsii",
+    "name": "Модель атрибуции: какая подойдет вашему бизнесу",
+    "snippet": "Модель атрибуции — правило, по которому происходит распределение ценности между маркетинговыми каналами, участвовавшим в привлечении покупателя.",
+    "host_name": "roistat.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://synergy.ru/akademiya/programming/modeli_atribuczii_v_marketinge",
+    "name": "Модели атрибуции в маркетинге и рекламе",
+    "snippet": "Sep 30, 2024 — Модель атрибуции в маркетинге – это правило, используемое для распределения ценностей между каналами трафика, для того чтобы привлечь ... Read more",
+    "host_name": "synergy.ru",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://romi.center/ru/learning/article/attribution-marketing-models-what-are-they-and-what-are-they",
+    "name": "Маркетинговые модели атрибуции: что это и какие они",
+    "snippet": "Jul 3, 2022 — Модель атрибуции — это маркетинговая модель , которую специалисты используют для оценки важности точек контакта с клиентами.",
+    "host_name": "romi.center",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://yandex.ru/adv/edu/materials/modeli-atribucii",
+    "name": "что это такое, модели атрибуции в Директе и Метрике",
+    "snippet": "Mar 28, 2024 — Атрибуция — это способ определить переход на сайт, благодаря которому посетитель совершил конверсию, например оформил заказ или оставил контакты ... Read more",
+    "host_name": "yandex.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://skillbox.ru/media/marketing/chto-takoe-modeli-atributsii-i-kakuyu-iz-nikh-vybrat-chtoby-pravilno-otsenit-kanaly-trafika",
+    "name": "Модели атрибуции в «Метрике», «Директе» и Google",
+    "snippet": "Dec 28, 2022 — Модель атрибуции — набор правил, по которым присваивают ценность каналам привлечения трафика . Проще говоря — определяют, к какому каналу отнести ... Read more",
+    "host_name": "skillbox.ru",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://esputnik.com/slovar-email-marketologa/modeli-atribucii",
+    "name": "Модели атрибуции что это такое",
+    "snippet": "Feb 9, 2022 — это принцип, по которому идет распределение ценности от конверсии между разными источниками взаимодействия клиента с продуктом. Условно говоря, ... Read more",
+    "host_name": "esputnik.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketolog.mts.ru/blog/chto-takoe-modeli-atributsii-i-kakuyu-vibrat-dlya-prodvizheniya",
+    "name": "Какую модель атрибуции правильно выбрать",
+    "snippet": "Jul 30, 2023 — Модель атрибуции — последний переход​​ Это модель, в которой в приоритете ценность последнего перехода по рекламе (Last Click). Эту стратегию исп ... Read more",
+    "host_name": "marketolog.mts.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://shmargun.ru/blog/modeli-atribucii",
+    "name": "Mодели aтрибуции для маркетологов: полное руководство",
+    "snippet": "Линейная атрибуция дает вам более сбалансированный взгляд на всю вашу маркетинговую стратегию , чем модель атрибуции по одному событию. Если нужна детализация, ... Read more",
+    "host_name": "shmargun.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

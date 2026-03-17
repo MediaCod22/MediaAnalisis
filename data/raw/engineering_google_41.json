@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.ptc.com/en/blogs/iiot/what-is-iot-predictive-maintenance",
+    "name": "What Is IoT Predictive Maintenance?",
+    "snippet": "19 Jul 2023 — IoT-based predictive maintenance helps the service industry to monitor equipment performance, predict potential failures, and schedule ... Read more",
+    "host_name": "www.ptc.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.aspentech.com/en/cp/iot-predictive-maintenance",
+    "name": "IoT Predictive Maintenance",
+    "snippet": "IoT predictive maintenance is a maintenance strategy that involves using the Internet of Things to gather and analyze data about assets, equipment or machinery. Read more",
+    "host_name": "www.aspentech.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.diklatkerja.com/blog/prediksi-cerdas-dan-efisiensi-operasional-penerapan-iot-based-predictive-maintenance-di-industri-konstruksi",
+    "name": "Penerapan IoT-Based Predictive Maintenance di Industri",
+    "snippet": "6 Aug 2025 — IoT-based Predictive Maintenance bantu industri hindari downtime, kurangi biaya servis, dan tingkatkan efisiensi. Temukan metode dan hasil ...",
+    "host_name": "www.diklatkerja.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1110016823011572",
+    "name": "Machine learning and IoT – Based predictive maintenance",
+    "snippet": "2024 · Cited by 174 — In this study, a predictive maintenance system based on machine learning algorithms , specifically AdaBoost, is presented to classify different types of ... Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.iot-now.com/2024/10/23/147629-power-of-predictive-maintenance-with-iot-reducing-downtime-and-costs",
+    "name": "Power of predictive maintenance with IoT: Reducing",
+    "snippet": "23 Oct 2024 — Predictive maintenance is proactive machinery maintenance based on real-time data from IoT sensor s to determine when the machinery will break down. Read more\nIn contrast to reactive (fixing the machine when it breaks down) or preventive (doing maintenance regularly) based maintenance, predictive maintenance is based on IoT and data analytics to anticipate and address problems before they cause costly downtime.",
+    "host_name": "www.iot-now.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kmtech.id/post/proyek-iot-di-industri-manufaktur-predictive-maintenance",
+    "name": "Proyek IoT di Industri Manufaktur: Predictive Maintenance",
+    "snippet": "24 Mar 2025 — Predictive maintenance adalah strategi pemeliharaan berbasis kondisi yang memanfaatkan analisis data untuk memprediksi kegagalan peralatan. Read more",
+    "host_name": "www.kmtech.id",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nanoprecise.io/iot-predictive-maintenance",
+    "name": "Iot Predictive Maintenance",
+    "snippet": "Predictive maintenance with IoT refers to the use of a data-driven approach, that analyses the equipment condition to predict when that equipment requires ... Read more",
+    "host_name": "nanoprecise.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://webbylab.com/blog/use-cases-of-iot-based-predictive-maintenance",
+    "name": "Top 5 Use Cases of Predictive Maintenance using IoT",
+    "snippet": "By merging data analytics and foresight, industrial IoT predictive maintenance protects your machinery and services from downtime. Read more",
+    "host_name": "webbylab.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://iot-analytics.com/predictive-maintenance-market",
+    "name": "Predictive maintenance market: 5 highlights for 2024 and",
+    "snippet": "29 Nov 2023 — The global predictive maintenance market grew to $5.5 billion in 2022–a growth of 11% from 2021—with an estimated CAGR of 17% by 2028 [...]",
+    "host_name": "iot-analytics.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.azilen.com/blog/iot-for-predictive-maintenance",
+    "name": "IoT for Predictive Maintenance: A Beginner’s Guide in 2026",
+    "snippet": "Learn how IoT predictive maintenance works in manufacturing, key use cases, adoption steps, challenges, and when to scale with expert support.",
+    "host_name": "www.azilen.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://habr.com/ru/articles/904108",
+    "name": "Эра Big Data: новые возможности в принятии решений",
+    "snippet": "24 Apr 2025 — Что такое Big Data ? Big Data - это огромные объёмы данных, которые невозможно обработать с помощью традиционных методов.",
+    "host_name": "habr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://korusconsulting.ru/blog/tekhnologii/kak-ispolzovat-big-data",
+    "name": "Анализ больших данных: как использовать Big Data для",
+    "snippet": "25 Oct 2024 — Внедрение анализа Big Data в процессы принятия управленческих решений — это сложный процесс, требующий значительных инвестиций и усилий, но ... Read more",
+    "host_name": "korusconsulting.ru",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cyberleninka.ru/article/n/big-data-i-smezhnye-tehnologii-pri-prinyatii-upravlencheskih-resheniy",
+    "name": "BIG DATA И СМЕЖНЫЕ ТЕХНОЛОГИИ ПРИ",
+    "snippet": "2022 · Cited by 3 — В статье анализируются Big Data и смежные технологии при принятии управленческих решений . Рассматриваются сущность и особенности информационной системы ...",
+    "host_name": "cyberleninka.ru",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://invento-labs.by/o-kompanii/blog/2023/mar/bi-big-data-analiz-bolshih-obyomov-dannyh-dlya-prinyatiya-biznes-reshenij.html",
+    "name": "BI + Big Data: анализ больших объёмов данных для",
+    "snippet": "Сочетание BI и Big Data позволяет компаниям анализировать большие объёмы данных и получать ценные сведения для принятия обоснованных решений . Например, анализ ... Read more",
+    "host_name": "invento-labs.by",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://practicum.yandex.ru/blog/chto-takoe-big-data",
+    "name": "Big Data: что такое технология больших данных",
+    "snippet": "7 Oct 2025 — Big Data — это наборы информации, которые помогают принимать обоснованные решения , их называют data-driven — основанными на данных. Они ... Read more",
+    "host_name": "practicum.yandex.ru",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.uiscom.ru/blog/tekhnologiya-big-data-chto-eto-takoe",
+    "name": "Технология Big Data: что это такое",
+    "snippet": "14 Aug 2024 — Аналитики данных: изучают большие данные, выявляют скрытые взаимосвязи, прогнозируют, а также предоставляют ценные инсайты для принятия решений . Read more",
+    "host_name": "www.uiscom.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vaael.ru/article/view?id=1337",
+    "name": "ПРИМЕНЕНИЕ ТЕХНОЛОГИЙ BIG DATA В",
+    "snippet": "Среда больших данных, основанная на облачных вычислениях, оказывает большое влияние на процесс сбора информации для принятия решений на предприятии, принятия ... Read more",
+    "host_name": "vaael.ru",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/390430437_Koncepcia_bolsih_dannyh_kak_osnova_processa_prinatia_resenij",
+    "name": "(PDF) Концепция больших данных как основа процесса",
+    "snippet": "В статье рассматривается интеграция технологий больших данных и процессов принятия решений в контексте разработки программного обеспечения для ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.uplab.ru/blog/analiz-bolshih-dannyh-big-data",
+    "name": "Анализ больших данных — Big Data - Uplab",
+    "snippet": "26 Aug 2024 — В России в 2020-е годы спрос на данные для принятия решений значительно вырос, и BI-платформы стали наиважнейшим фактором конкурентоспособности, ... Read more",
+    "host_name": "www.uplab.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ast-academy.ru/blog/rol_big_data_i_analitiki_v_prinatii_biznes_resenij_vozmoznosti_i_vyzovy",
+    "name": "Роль big data и аналитики в принятии бизнес-решений",
+    "snippet": "29 Mar 2024 — Аналитические показатели помогают принимать грамотные решения , настраивать процессы и повышать результаты. Read more",
+    "host_name": "ast-academy.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

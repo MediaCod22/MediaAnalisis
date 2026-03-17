@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://adr.github.io",
+    "name": "Architectural Decision Records",
+    "snippet": "An Architectural Decision (AD) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.",
+    "host_name": "adr.github.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/joelparkerhenderson/architecture-decision-record",
+    "name": "Architecture decision record (ADR) examples for software planning",
+    "snippet": "An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/figure/Models-supporting-architectural-decision-making-a-comparison_tbl1_225149060",
+    "name": "Models supporting architectural decision making -a comparison",
+    "snippet": "One of the modern approaches for documenting software architecture is to show the architectural design decisions that led an architect to the final form of ...",
+    "host_name": "www.researchgate.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/decathlondigital/software-architecture-architecture-decision-record-c4-11ceff211baf",
+    "name": "Software Architecture: Architecture Decision Record & C4 - Medium",
+    "snippet": "Let's now examine how to capture architectural decisions thanks to Architecture Decision Records and C4 diagram-as-code solutions. Series ...",
+    "host_name": "medium.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/1610.09240",
+    "name": "[PDF] Software Architecture Decision-Making Practices and Challenges",
+    "snippet": "The SECI model, the. Sensemaking model, the Wiig model, and the I-Space model are some of the widely used knowledge management models. [31]. Among them the SECI ...",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.workingsoftware.dev/introducing-the-software-architecture-decision-canvas",
+    "name": "Introduction to the Architecture Decision Canvas: Making better",
+    "snippet": "The Architecture Decision Canvas (ADC) is a visual and structured approach to guide teams through the critical decision-making process in a collaborative way.",
+    "host_name": "www.workingsoftware.dev",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.infoq.com/articles/framework-architectural-decisions",
+    "name": "A Simple Framework for Architectural Decisions - InfoQ",
+    "snippet": "A framework for making architectural decisions can provide clarity on the process of decision-making and who should be involved.",
+    "host_name": "www.infoq.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ceur-ws.org/Vol-244/paper4.pdf",
+    "name": "[PDF] Architectural Decision Models as Micro-Methodology for Service",
+    "snippet": "In [34], we defined architectural decisions as “conscious design decisions concerning a software system as a whole, or one or more of its core components. These ...",
+    "host_name": "ceur-ws.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://martinfowler.com/architecture",
+    "name": "Software Architecture Guide - Martin Fowler",
+    "snippet": "This page outlines my view of software architecture and points you to more material about architecture on this site.",
+    "host_name": "martinfowler.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ozimmer.ch/practices/2023/04/21/ADAdoptionModel.html",
+    "name": "An Adoption Model for Architectural Decision Making and Capturing",
+    "snippet": "All architectural decisions are made intuitively and unconsciously, embedded in development activities. The architecture is fully emergent. No ...",
+    "host_name": "ozimmer.ch",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.neuralconcept.com/post/predictive-maintenance-algorithms-for-better-efficiency",
+    "name": "Predictive Maintenance Algorithms for Better Efficiency",
+    "snippet": "Predictive maintenance programs employ a range of algorithms , including regression models, decision trees, random forests, support vector machines (SVMs), ... Read more",
+    "host_name": "www.neuralconcept.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/2227-7390/13/6/981",
+    "name": "Predictive Maintenance Algorithms, Artificial Intelligence",
+    "snippet": "2025 · Cited by 43 — The primary advantages of PdM algorithms are the reduction in overall operational costs and the optimisation of equipment utilisation, which results in ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@albertomoccardi/deep-learning-strategies-for-predictive-maintenance-9f1f40d8958a",
+    "name": "Deep Learning Strategies for Predictive Maintenance",
+    "snippet": "Predictive maintenance is predicated on the monitoring and analysis of various data types to estimate the condition of equipment or systems, and ... Read more",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mathworks.com/discovery/predictive-maintenance.html",
+    "name": "What Is Predictive Maintenance? - MATLAB & Simulink",
+    "snippet": "These algorithms can fall into three major categories: anomaly detection, fault identification (diagnostics), and remaining useful life estimation (prognostics) ... Read more",
+    "host_name": "www.mathworks.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://spd.tech/machine-learning/predictive-maintenance",
+    "name": "Predictive Maintenance Machine Learning: Expert Guide",
+    "snippet": "By monitoring factors such as temperature, vibration, pressure, and usage patterns, predictive maintenance algorithms can foresee potential issues and recommend ... Read more",
+    "host_name": "spd.tech",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/382805856_Machine_Learning_Algorithms_for_Predictive_Maintenance_in_Manufacturing",
+    "name": "Machine Learning Algorithms for Predictive Maintenance in",
+    "snippet": "The research demonstrated that sophisticated models, such as deep learning and ensemble methods , provided superior accuracy in predicting equipment failures. Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://shoplogix.com/predictive-maintenance-algorithms",
+    "name": "Predictive Maintenance Algorithms: Revolutionizing",
+    "snippet": "28 Nov 2024 — Predictive maintenance algorithms analyze data from sensors and other sources to identify patterns that precede equipment failures. Read more",
+    "host_name": "shoplogix.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://control.com/technical-articles/ai-algorithms-used-in-predictive-maintenance",
+    "name": "AI Algorithms Used in Predictive Maintenance",
+    "snippet": "23 Aug 2024 — In this article, we will take a deep dive into some of the most important AI algorithms employed in predictive maintenance . Read more",
+    "host_name": "control.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/9803983",
+    "name": "Predictive Maintenance Algorithm Based on Machine",
+    "snippet": "2022 · Cited by 8 — This article proposes a predictive maintenance algorithm based on machine learning to predict the remaining useful life of industrial assets.",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://clareus.org/pdf/csse/CSSE-02-034.pdf",
+    "name": "Predictive Algorithms for Maintenance Planning and",
+    "snippet": "Predictive Algorithms for Maintenance Planning and Optimization in ptimization Ma ntenance “Predictive in Indu (2025): 41-51. Engineering Clareus Scientific",
+    "host_name": "clareus.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

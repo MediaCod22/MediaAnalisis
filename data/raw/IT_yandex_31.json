@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://aws.amazon.com/ru/what-is/data-mining",
+    "name": "Что такое интеллектуальный анализ данных?",
+    "snippet": "Интеллектуальный анализ данных – это компьютеризованная технология, используемая в аналитике для обработки и исследования крупных наборов данных. Read more",
+    "host_name": "aws.amazon.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cyberleninka.ru/article/n/intellektualnyy-analiz-dannyh-i-biznes-analitika-v-upravlenii-biznesom-i-marketinge",
+    "name": "ИНТЕЛЛЕКТУАЛЬНЫЙ АНАЛИЗ ДАННЫХ И БИЗНЕС-",
+    "snippet": "2022 · Cited by 20 — Интеллектуальный анализ данных — это процесс обработки больших наборов данных для выявления соответствующей информации . Предприятия используют интеллектуальный ... Read more",
+    "host_name": "cyberleninka.ru",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://moluch.ru/archive/529/116789",
+    "name": "Интеллектуальный анализ данных и бизнес-аналитика",
+    "snippet": "21-Jul-2024 — В статье автор рассматривает современные технологии интеллектуального анализа данных и бизнес -аналитики, их роль в повышении эффективности ... Read more",
+    "host_name": "moluch.ru",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.trendmicro.com/ru_ru/what-is/ai/data-mining.html",
+    "name": "Что такое интеллектуальный анализ данных?",
+    "snippet": "28-Aug-2025 — Процесс, который позволяет бизнесу извлекать полезную информацию, описательную или прогнозирующую, из данных , собранных с течением времени с ...",
+    "host_name": "www.trendmicro.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://farabi.university/storage/files/21207949966902654ce1e82402808490_%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.pdf",
+    "name": "Лекция 1. Введение в интеллектуальный анализ",
+    "snippet": "Определение: Интеллектуальный анализ данных (Data Mining) — это процесс выявления скрытых, ранее неизвестных, но потенциально полезных закономерностей , зависим ... 6 pages",
+    "host_name": "farabi.university",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://learn.microsoft.com/ru-ru/analysis-services/data-mining/data-mining-concepts?view=asallproducts-allversions",
+    "name": "Основные понятия интеллектуального анализа данных",
+    "snippet": "02-Feb-2026 — Интеллектуальный анализ данных — это процесс обнаружения практических сведений из больших наборов данных . Датамайнинг использует математический ... Read more",
+    "host_name": "learn.microsoft.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://apptask.ru/blog/intellektualnyi-analiz-dannyx",
+    "name": "Важность интеллектуального анализа данных для бизнеса",
+    "snippet": "09-Jul-2024 — Интеллектуальный анализ данных (ИАД) – это процесс извлечения полезной информации из больших объемов данных , используя различные методы и ... Read more",
+    "host_name": "apptask.ru",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.iphos.com/ru/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0",
+    "name": "Бизнес-аналитика (хранилище данных) /",
+    "snippet": "Бизнес-аналитика нового поколения: комплексная ИТ-услуга для оптимального решения в области хранилищ данных (DWH) и интеллектуального анализа данных — от сбора ... Read more",
+    "host_name": "www.iphos.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://wiki.loginom.ru/articles/data-analysis.html",
+    "name": "Интеллектуальный анализ данных (Data Mining)",
+    "snippet": "Интеллектуальный анализ данных — это направление информационных технологий, охватывающее всю область проблем, связанных с извлечением знаний из массивов ... Read more",
+    "host_name": "wiki.loginom.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://publications.hse.ru/view/457164292",
+    "name": "Интеллектуальный анализ данных и анализ бизнес",
+    "snippet": "Process Mining – это интеллектуальный анализ данных, ориентированный на представление бизнес-процессов , исследующий корреляцию между теоретическими моделями ... Read more",
+    "host_name": "publications.hse.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

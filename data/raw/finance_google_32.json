@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp",
+    "name": "Basics of Algorithmic Trading: Concepts and Examples",
+    "snippet": "Aug 29, 2025 — Algorithmic trading combines computer programming and financial markets to execute trades at precise moments. Algorithmic trading attempts to ... Read more\nAlgorithmic trading (also called automated trading, black-box trading, or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade. The...",
+    "host_name": "www.investopedia.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/coding-nexus/top-14-algorithmic-trading-strategies-and-how-they-actually-work-1cdd084692ec",
+    "name": "Top 14 Algorithmic Trading Strategies (and How They",
+    "snippet": "1. Pairs Trading . Some assets move together. When they temporarily diverge, we bet they'll come back together. How it works: ; 2. Scalping. Take ... Read more",
+    "host_name": "medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://groww.in/blog/algorithmic-trading-strategies",
+    "name": "Top 7 Algorithmic Trading Strategies with Examples and",
+    "snippet": "Arbitrage · Index Fund Rebalancing · Trend Following · Market Timing · VWAP & TWAP Strategies · Mathematical/ML-Based Models . Read more",
+    "host_name": "groww.in",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.quantinsti.com/articles/algorithmic-trading",
+    "name": "What is Algorithmic Trading? | Strategies, Workflow,",
+    "snippet": "In algorithmic trading , the trading signals (buy/sell decisions ) are generated based on a set of instructions. Let's dive deeper into the evolution of trading, ... Read more",
+    "host_name": "www.quantinsti.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/amirmotefaker/algorithmic-trading",
+    "name": "Algorithmic Trading",
+    "snippet": "Algorithmic Trading means using algorithms in buying and selling decisions in the financial market. In an algorithmic trading strategy, a set of predefined ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://asset.quant-wiki.com/pdf/Algorithmic%20Trading%20Methods_%20Applications%20Using%20Advanced%20Statistics,%20Optimization,%20and%20Machine%20Learning%20Techniques-Academic%20Press%20(2020).pdf",
+    "name": "Algorithmic Trading Methods",
+    "snippet": "... models that are used to construct, calibrate, and test market impact models , as well as to develop single stock and portfolio trading algorithms . The ... Read more 614 pages",
+    "host_name": "asset.quant-wiki.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://intrinio.com/blog/how-to-create-a-trading-algorithm-essential-steps-for-success",
+    "name": "Trading Algorithms: A Complete Step-By-Step Guide",
+    "snippet": "Sep 11, 2024 — Learn how to create a trading algorithm from scratch. Follow key steps to design, test, and optimize your strategy with real market data.",
+    "host_name": "intrinio.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Algorithmic_trading",
+    "name": "Algorithmic trading",
+    "snippet": "All portfolio-allocation decisions are made by computerized quantitative models . The success of computerized strategies is largely driven by their ability ... Read more",
+    "host_name": "en.wikipedia.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.utradealgos.com/blog/basics-of-algo-trading",
+    "name": "Basics of Algo Trading: Concept & Examples of Algorithmic",
+    "snippet": "Explore what is algo trading , how algorithmic trading works, and key algorithmic trading strategies with real-world examples to enhance your knowledge.",
+    "host_name": "www.utradealgos.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2590005625000177",
+    "name": "Deep learning for algorithmic trading: A systematic review of",
+    "snippet": "We analyze and synthesize the key DL architectures, such as recurrent neural networks (RNN), long short-term memory (LSTM), convolutional neural networks (CNN), and hybrid models, to evaluate their performance in predicting stock prices, volatility, and market trends.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

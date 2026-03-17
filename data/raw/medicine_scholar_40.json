@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.healthcatalyst.com/learn/insights/data-driven-precision-medicine-individualizes-treatment",
+    "name": "Data-Driven Precision Medicine: A Must-Have for the Next-",
+    "snippet": "This report examines the gaps in clinical care, research, and drug development inherent with a lack of combined molecular and clinical data. Read more",
+    "host_name": "www.healthcatalyst.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877825",
+    "name": "Precision Medicine, AI, and the Future of Personalized Health",
+    "snippet": "2020 · Cited by 2024 — Data is crucial to an AI ‐driven system. As AI and precision medicine are converging, data (e.g., genomics, medical history, behaviors, and social data that ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/d42473-020-00349-9",
+    "name": "Advancing precision medicine using AI and big data",
+    "snippet": "AI is transforming medical research by revealing data patterns that can be used to predict disease and treatment outcomes for individual patients. Read more",
+    "host_name": "www.nature.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinics-data-driven-quest-to-advance-individualized-medicine",
+    "name": "Mayo Clinic's data-driven quest to advance individualized",
+    "snippet": "Oct 30, 2024 — Mayo Clinic researchers are developing and leveraging digital tools to transform patient data into actionable insights.",
+    "host_name": "newsnetwork.mayoclinic.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0753332220306387",
+    "name": "Big data-driven precision medicine: Starting the custom-",
+    "snippet": "2020 · Cited by 33 — Precision medicine is developed with the rapid progress of genome sequencing technology and the cross-application of biological information and big data science ... Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/2227-9709/11/3/68",
+    "name": "Enhancing Clinical Decision Support for Precision Medicine",
+    "snippet": "2024 · Cited by 11 — Our study proposes a data-driven framework rooted in Simon's decision-making model. This framework leverages advanced technologies such as artificial ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00440-2",
+    "name": "Data-driven precision medicine through the analysis of",
+    "snippet": "2022 · Cited by 3 — Precision medicine is based on the idea that medical care should be tailored to each individual's health profile, which should take into account ... Read more",
+    "host_name": "www.cell.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.statnews.com/precision-medicine-in-a-data-driven-era",
+    "name": "STAT E-book | Precision Medicine in a Data-Driven Era",
+    "snippet": "This e-book interrogates the widening gap between rapidly advancing t herapeutic capabilities and the slower-moving standards, processes, and policies that ... Read more",
+    "host_name": "www.statnews.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tempus.com/resources/content/articles/using-data-and-ai-ml-to-achieve-precision-medicine/?srsltid=AfmBOoqdDCU6G6cY9Lu-brLE5L53kZ9hqWehNfI6YVOH2a1Ztudz_rGF",
+    "name": "Using data and AI/ML to achieve precision medicine",
+    "snippet": "Jun 13, 2023 — During the 2023 AACR conference, leaders from Tempus and GSK discuss the use of multimodal RWD and AI/ML to power the next era of drug development. Read more",
+    "host_name": "www.tempus.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/s41746-026-02553-1",
+    "name": "Regulating complexity in AI-enabled omics and multi-omics",
+    "snippet": "The convergence of (multi-)omics and artificial intelligence is transforming precision medicine by enabling data-driven diagnostics, treatment prediction, and patient stratification. Yet ...",
+    "host_name": "www.nature.com",
+    "rank": 9,
+    "date": "Mar 17, 2026",
+    "favicon": ""
+  }
+]

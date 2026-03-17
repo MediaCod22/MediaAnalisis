@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0957417425020445",
+    "name": "GNN-based social media sentiment analysis for stock market forecasting and trading",
+    "snippet": "2025 · Cited by 8 — This study introduces a novel approach that utilises graph neural networks (GNNs) for sentiment analysis to enhance stock market predictions.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gjust.ac.in/portal/upload/3.%20Jyotika%20Kundu,%20Anshula%20Garg,%20Aarti_12January2026_12-52-30-99.pdf",
+    "name": "STOCK MARKET PRICE PREDICTION USING SENTIMENT ANALYSIS OF",
+    "snippet": "11 Jan 2026 — This research focused on analysing the impact of stock analysis headlines on tomorrow's stock prices whereas it can have an immediate impact too ...",
+    "host_name": "gjust.ac.in",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8659448",
+    "name": "Stock Price Movement Prediction Using Sentiment Analysis and CandleStick Chart Representation - PMC",
+    "snippet": "2021 · Cited by 83 — In this study, we proposed a multichannel collaborative network by incorporating candlestick-chart and social-media data for stock trend predictions.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/282298117_Sentiment_Analysis_on_Social_Media_for_Stock_Movement_Prediction",
+    "name": "(PDF) Sentiment Analysis on Social Media for Stock Movement Prediction",
+    "snippet": "9 Apr 2024 — Finance to prove the relationship between media sentiment at a time and market returns had the same performance as Fama-French factor and ...",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.saspublishers.com/article/21472/download",
+    "name": "Studies of Sentiment Analysis for Stock Market Prediction using Machine Learning: A Survey towards New Research Direction",
+    "snippet": "21 Jan 2025 — This method has gained prominence with the growth of social media, making sentiment analysis a critical tool for predicting stock market.",
+    "host_name": "www.saspublishers.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/10345902",
+    "name": "Forecasting Stock Market Alternations Using Social Media Sentiment Analysis and Deep Neural Networks",
+    "snippet": "2023 · Cited by 10 — This study contributes to the expanding research on predicting stock market volatility through the utilization of social media sentiment analysis and deep ...",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/1911-8074/18/12/660",
+    "name": "News vs. Social Media: Sentiment Impact on Stock Performance of Big Tech Companies",
+    "snippet": "2025 · Cited by 2 — Twitter sentiment serves as a predictive tool for market movements because it directly influences short-term price fluctuations while also representing investor ...",
+    "host_name": "www.mdpi.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ijfmr.com/research-paper.php?id=46689",
+    "name": "The Predictive Power of Social Media Sentiment on Stock Market Returns",
+    "snippet": "31 May 2025 — Our findings indicate that social media sentiment demonstrates significant predictive power for stock market returns, particularly during ...",
+    "host_name": "www.ijfmr.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org/doi/10.1145/3785706.3785713",
+    "name": "Research on Stock Price Trend Prediction of Small Sample Data Based on Sentiment Analysis",
+    "snippet": "19 Jan 2026 — The purpose of this article is to measure investor sentiment and confirm its positive impact on stock price prediction in China's A-share market ...",
+    "host_name": "dl.acm.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ifip.hal.science/IFIP-AICT-717/hal-05141849",
+    "name": "Sentiment Analysis for Stock Prediction Using Mass Media Sources - IFIP Digital Library",
+    "snippet": "3 Jul 2025 — The project encompasses the creation of a comprehensive system that systematically scrapes economic news websites to gather information relevant ...",
+    "host_name": "ifip.hal.science",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

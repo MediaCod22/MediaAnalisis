@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://selectel.ru/blog/what-is-microservice-architecture",
+    "name": "Микросервисная архитектура: принципы построения и",
+    "snippet": "24 Oct 2023 — Микросервисная архитектура предполагает разработку и поддержку приложений с использованием небольших модульных сервисов, а не создание ...",
+    "host_name": "selectel.ru",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://yandex.cloud/ru-kz/blog/microservice-architecture-guide",
+    "name": "Микросервисная архитектура: что это, кому подойдёт, с",
+    "snippet": "6 Jul 2025 — Рассказываем про микросервисную архитектуру : чем она отличается от монолитной, кому подойдёт такой подход и какие инструменты использовать ...",
+    "host_name": "yandex.cloud",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://habr.com/ru/hubs/microservices",
+    "name": "Микросервисы — Микросервисная архитектура и все",
+    "snippet": "Стандарт решения проблемы двойных списаний в финтех, или О чем спросят системного ...",
+    "host_name": "habr.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://korusconsulting.ru/infohub/mikroservisnaya-arkhitektura-prostymi-slovami-plyusy-i-minusy",
+    "name": "Микросервисная архитектура: что это, плюсы и минусы",
+    "snippet": "Микросервисная архитектура — это способ создания программных продуктов, предполагающий разработку независимых друг от друга модулей. Каждая часть отвечает за ...",
+    "host_name": "korusconsulting.ru",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.atlassian.com/ru/microservices/microservices-architecture",
+    "name": "Микросервисная архитектура",
+    "snippet": "Микросервисная архитектура — это подход к созданию приложения в виде набора независимо развертываемых сервисов.",
+    "host_name": "www.atlassian.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://simpleone.ru/blog/what-is-microservice-architecture-advantages-disadvantages-use-cases",
+    "name": "Микросервисная архитектура: преимущества,",
+    "snippet": "24 Oct 2025 — Микросервисная архитектура — стиль разработки ПО, заключающийся в разбиении монолита системы на отдельные компоненты , которые представляют собой ...",
+    "host_name": "simpleone.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://foxminded.ua/ru/mikroservisnaya-arhitektura",
+    "name": "Микросервисная архитектура: основные концепции и",
+    "snippet": "26 Mar 2024 — Микросервисная архитектура (MSA) – это подход к разработке ПО, при котором приложение разбивается на небольшие, независимые сервисы .",
+    "host_name": "foxminded.ua",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.uplab.ru/blog/microservices",
+    "name": "Главное о микросервисах и микросервисной архитектуре",
+    "snippet": "27 Feb 2025 — Микросервисная архитектура — это подход к созданию программ, где проект строится из независимых компонентов. Её преимущества: гибкость и ...",
+    "host_name": "www.uplab.ru",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cifra-k.ru/news/mikroservisnaya-arhitektura-kak-nasha-komanda-sozdaet-gibkie-i-masshtabiruemye-resheniya",
+    "name": "Микросервисная архитектура: как наша команда",
+    "snippet": "Микросервисная архитектура – это подход к разработке программного обеспечения, при котором приложение строится как набор небольших, независимо развертываемых ...",
+    "host_name": "www.cifra-k.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://practicum.yandex.ru/blog/pro-mikroservisnaya-arhitektura-chto-eto",
+    "name": "Микросервисная архитектура – как она устроена и для чего",
+    "snippet": "Что представляют собой микросервисы и как построена их архитектура? Рассмотрим плюсы и минусы, принципы работы и области применения микросервисной архитектуры.",
+    "host_name": "practicum.yandex.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

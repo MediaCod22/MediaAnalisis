@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://skillbox.ru/media/management/chto_takoe_agile",
+    "name": "Agile: что это такое и как работает гибкое управление",
+    "snippet": "9 Jan 2024 — Agile (эджайл) — методология управления проектами . Она возникла в сфере IT и сначала использовалась для разработки ПО. Сейчас Agile используют и ... Read more",
+    "host_name": "skillbox.ru",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.atlassian.com/ru/agile/project-management",
+    "name": "Управление проектами по методике Agile",
+    "snippet": "Управление проектами по принципу Agile — итеративный подход, основанный на разбиении проектов на комфортные этапы и ориентированный на совместную работу, ... Read more\nУправление проектами по принципу Agile — итеративный подход, основанный на разбиении проектов на комфортные этапы и ориентированный на совместную работу, гибкость и отзывы клиентов.",
+    "host_name": "www.atlassian.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://korusconsulting.ru/infohub/chto-takoe-agile-i-kak-on-transformiruet-upravlenie-proektami",
+    "name": "Что такое Agile: методология гибкого управления",
+    "snippet": "8 Feb 2024 — Agile, или гибкая методология, - это подход к управлению проектами , который подчеркивает гибкость, командную работу и быструю адаптацию к ... Read more",
+    "host_name": "korusconsulting.ru",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://endocs.ru/gibkoe-upravlenie-proektami-agile-vse-chto-vam-nuzhno-znat",
+    "name": "Гибкое управление проектами Agile: все, что вам нужно знать",
+    "snippet": "6 Feb 2025 — Гибкое управление проектами Agile – это инкрементный, итеративный подход к реализации проекта на протяжении всего его жизненного цикла. Read more",
+    "host_name": "endocs.ru",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://practicum.yandex.ru/blog/metodology-agile",
+    "name": "Методология Agile: что это, отличия гибкой методологии",
+    "snippet": "Agile , или Agile software development, — это гибкий подход к управлению проектами по разработке программного обеспечения (ПО), который часто применяют в ... Read more\nОбзор методологии Agile: что это такое простыми словами, где она используется и чем гибкая методология управления проектами отличается от других.",
+    "host_name": "practicum.yandex.ru",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://changeleaders.ru/agile-for-project-management",
+    "name": "Agile для управления проектами",
+    "snippet": "Agile как подход был сформулирован с 2001 году в виде манифеста . И уже более 20 лет будоражит менеджеров компаний. В компаниях употребляется с негативным конте ... Read more",
+    "host_name": "changeleaders.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://asana.com/ru/resources/agile-methodology",
+    "name": "Что такое методология Agile? (Руководство для",
+    "snippet": "9 Dec 2025 — Методология Agile — это фреймворк управления проектами , который разбивает проекты на несколько динамических фаз, обычно называемых спринтами ... Read more",
+    "host_name": "asana.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://e-mba.kg/blog/agile-metodologija",
+    "name": "Методология Agile в управлении проектами",
+    "snippet": "В производстве Agile помогает оптимизировать процессы и сократить время на разработку новых продуктов . В маркетинге Agile позволяет быстро адаптироваться к ... Read more",
+    "host_name": "e-mba.kg",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://productlab.ru/blog/agile-and-project-management",
+    "name": "Agile и классическое проектное управление: в чем разница?",
+    "snippet": "Чем отличается Agile от классического управления проектом. Разберем гибкий подход к управлению, метод итераций и гибкие подходы Agile .",
+    "host_name": "productlab.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://habr.com/ru/companies/otus/articles/710034",
+    "name": "Управление проектом по Agile методике / Хабр",
+    "snippet": "В моей следующей статье об управлении проектами по методике agile мы обсудим ключевые различия между Scrum и Kanban и то, как использовать один из них или сразу оба метода с пользой для себя.",
+    "host_name": "habr.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://habr.com/ru/companies/ruvds/articles/950758",
+    "name": "Что такое DevOps и почему он автоматизировал не всё",
+    "snippet": "Sep 30, 2568 BE — DevOps — это способ организовать эту работу так, чтобы новые функции доходили до вас быстрее и без сбоев. Он объединяет разработчиков, ... Read more\nВ статье рассмотрим, что за зверь такой DevOps. Когда работает, а когда спотыкается и где автоматизация работает, а где нужна платформа и процессы. Даже если вы не айтишник — переходите под кат.",
+    "host_name": "habr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://habr.com/ru/companies/ruvds/articles/525840",
+    "name": "Автоматизация DevOps",
+    "snippet": "Nov 6, 2563 BE — В ходе автоматизации DevOps собирают в единую систему инструменты, используемые специалистами , работающими над программами на разных стадиях её ... Read more",
+    "host_name": "habr.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.atlassian.com/ru/devops/frameworks/deployment-automation",
+    "name": "Автоматизация развертывания: в чем суть и с чего начать",
+    "snippet": "DevOps — это совокупность методов разработки, позволяющих быстрее собирать, тестировать и выпускать более качественное ПО. Автоматизация развертывания устраняет ... Read more\nВ данном руководстве рассматривается автоматизация развертывания, в том числе стандартные инструменты CI/CD, и способы внедрения практик DevOps.",
+    "host_name": "www.atlassian.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://elma365.com/ru/baza-znaniy/dev-ops",
+    "name": "DevOps: что это такое? Руководство по культуре",
+    "snippet": "Автоматизация и CI/CD. DevOps практики включают: Непрерывная интеграция (Continuous Integration, CI) — автоматическая проверка кода на ошибки после каждого ... Read more",
+    "host_name": "elma365.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://itglobal.com/ru-ru/company/blog/osnovnye-instrumenty-i-praktiki-devops",
+    "name": "DevOps: принципы, практики и инструменты",
+    "snippet": "Автоматизация минимизирует ошибки, ускоряет циклы выпуска и освобождает время команды для решения творческих задач. Вместо того, чтобы каждый раз вручную ... Read more",
+    "host_name": "itglobal.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://otus.ru/journal/chto-takoe-devops-i-kak-stat-inzhenerom-devops",
+    "name": "Что такое DevOps и как стать инженером DevOps?",
+    "snippet": "Feb 12, 2568 BE — DevOps — это не просто методология или набор инструментов , а целая культура, философия и набор практик, направленных на автоматизацию и ... Read more",
+    "host_name": "otus.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://simpleone.ru/glossary/devops",
+    "name": "DevOps — что это такое, зачем нужен бизнесу и какие",
+    "snippet": "Jul 3, 2568 BE — Решением стал DevOps . В основе DevOps лежит автоматизация процессов разработки, тестирования и развертывания приложений. Вместо ручной ... Read more",
+    "host_name": "simpleone.ru",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hostnet.lv/ru/knowledgebase/%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-devops-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7",
+    "name": "Какие методы автоматизации DevOps используются?",
+    "snippet": "Мы используем современные инструменты DevOps, такие как Docker, Kubernetes, Terraform, Ansible, Jenkins , для автоматизации процессов развертывания, ... Read more",
+    "host_name": "hostnet.lv",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://korusconsulting.ru/infohub/devops",
+    "name": "DevOps: что это за технология как ее внедрить в компании",
+    "snippet": "Автоматизация и инструменты. Ключевой принцип - автоматизация рутинных и повторяющихся задач . Это снижает вероятность ошибок, обеспечивает стабильность среды ... Read more",
+    "host_name": "korusconsulting.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://notissimus.com/chto-takoe-avtomatizacziya-devops-glubokoe-pogruzhenie-v-ee-tipy-primery-ispolzovaniya-i-5-luchshih-instrumentov",
+    "name": "Что такое автоматизация DevOps? Глубокое погружение в ее типы",
+    "snippet": "Что такое автоматизация DevOps? Автоматизация DevOps – это набор технологий и инструментов, которые выполняют повторяющиеся задачи и рутинную работу, которую инженеры по программному ...",
+    "host_name": "notissimus.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

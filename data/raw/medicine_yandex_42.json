@@ -1,0 +1,92 @@
+[
+  {
+    "url": "http://www.iaea.org/ru/bulletin/rol-iskusstvennogo-intellekta-i-medicinskoy-vizualizacii-v-borbe-s-zoonoznymi-zabolevaniyami",
+    "name": "Роль искусственного интеллекта и медицинской",
+    "snippet": "Медицинская визуализация , используемая вместе с МО, позволяет получить точное представление о фенотипическом многообразии болезни у отдельных пациентов и ее ...",
+    "host_name": "www.iaea.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.medicusunion.com/ru/blog-news/AI-Imaging-Faster-Smarter-More-Reliable-Results",
+    "name": "Визуализация с ИИ: Быстрее, Умнее и Более надежные",
+    "snippet": "Искусственный интеллект преобразует медицинскую визуализацию — от простых сканов к продвинутой диагностике на основе глубинного обучения.",
+    "host_name": "www.medicusunion.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://habr.com/ru/companies/bothub/news/891192",
+    "name": "Gleamer и будущее медицинской визуализации",
+    "snippet": "17 Mar 2025 — Медицинская визуализация — это широкий спектр, охватывающий несколько различных технологий. После работы над инструментами на основе ИИ для ...",
+    "host_name": "habr.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://jtelemed.ru/article/iskusstvennyj-intellekt-v-medicinskoj-vizualizacii-osnovnye-zadachi-i-scenarii-razvitija",
+    "name": "Искусственный интеллект в медицинской визуализации",
+    "snippet": "Так, ИИ BioMind, разработанной в Международной Клинике Beijing Tiantan , показал лучшую эффективность по сравнению с 15-ю врачами. Данное решение анализирует ...",
+    "host_name": "jtelemed.ru",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ultralytics.com/ru/blog/ai-and-radiology-a-new-era-of-precision-and-efficiency",
+    "name": "ИИ и радиология: новая эра точности и эффективности",
+    "snippet": "4 Jun 2024 — Искусственный интеллект преобразует радиологию, повышая точность и эффективность медицинской визуализации . Узнайте о влиянии ИИ на ...",
+    "host_name": "www.ultralytics.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sberhealth.ru/library/zdorove/iskusstvennyy-intellekt-v-diagnostike-kak-ii-menyaet-analiz-meditsinskikh-snimkov",
+    "name": "Искусственный интеллект в диагностике: как ИИ меняет",
+    "snippet": "Искусственный интеллект уже сегодня используется в медицинской диагностике, особенно при анализе рентгенограмм, КТ и МРТ.",
+    "host_name": "sberhealth.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.jenova.ai/ru/resources/ai-medical-image-analyst",
+    "name": "экспертный анализ рентгеновских снимков, МРТ, КТ и",
+    "snippet": "14 Feb 2026 — Загрузите любое медицинское изображение для экспертного AI-анализа . Medical Image Analyst предоставляет подробные наблюдения, ...",
+    "host_name": "www.jenova.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.sber.ru/help/gigachat-api/ai-in-medicine",
+    "name": "Искусственный интеллект в медицине - Sber Developer",
+    "snippet": "12 Aug 2025 — Медицинская визуализация: анализ рентгеновских снимков, МРТ, КТ с точностью до 94 %. Алгоритмы компьютерного зрения помогают находить аномалии в ...",
+    "host_name": "developers.sber.ru",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://rentgen.by/news/5-luchshih-sistem-iskusstvennogo-intellekta-dlya-obrabotki-meditsinskoj-izobrazhenij",
+    "name": "5 лучших систем искусственного интеллекта для  - ДРАЙВ",
+    "snippet": "Медицинская визуализация включает в себя любую технологию или метод, позволяющий визуально отобразить внутренние “тайны” нашего тела.",
+    "host_name": "rentgen.by",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.computerra.ru/334695/iskusstvennyj-intellekt-v-meditsine-pomoshhnik-vracha-ili-risk-dlya-patsienta",
+    "name": "Искусственный интеллект в медицине: помощник врача",
+    "snippet": "27 Jan 2026 — Нейросети уже читают рентген-снимки, пишут эпикризы и советуют терапию для пациента по результатам КТ, МРТ и ЭКГ. Искусственный интеллект в ...",
+    "host_name": "www.computerra.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

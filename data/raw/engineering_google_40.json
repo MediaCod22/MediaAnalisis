@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.visualcomponents.com/blog/understanding-digital-twins-in-manufacturing",
+    "name": "Understanding digital twins in manufacturing",
+    "snippet": "29 Jan 2025 — A digital twin provides real-time insights into product flow , allowing manufacturers to adjust conveyor speeds, reroute items, or optimize batch ... Read more\nA digital twin provides real-time insights into product flow, allowing manufacturers to adjust conveyor speeds, reroute items, or optimize batch sizes as needed—ensuring steady throughput and minimizing disruptions.",
+    "host_name": "www.visualcomponents.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ansys.com/blog/digital-twins-manufacturing",
+    "name": "What is a Digital Twin in Manufacturing?",
+    "snippet": "11 Oct 2022 — A digital twin enables smart manufacturers to predict the quality of the end product , helping them make more informed decisions about issues such as material ... Read more\nIn smart manufacturing, digital twin technology shows how entire systems will interact — not just individual devices, but how each device will influence the performance of an entire production floor.",
+    "host_name": "www.ansys.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dataparc.com/blog/digital-twin-manufacturing",
+    "name": "Digital Twins in Manufacturing Explained: Key Advantages",
+    "snippet": "As a virtual model of your plant, digital twins in manufacturing allow you to continually monitor processes, capture data, and improve your efficiency .",
+    "host_name": "www.dataparc.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ibm.com/think/topics/digital-twin",
+    "name": "What Is a Digital Twin? | IBM",
+    "snippet": "17 Oct 2025 — Digital twin solutions help enterprises experiment with different product designs, workflows and manufacturing processes within a virtual ... Read more",
+    "host_name": "www.ibm.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://materialize.com/blog/digital-twins-in-manufacturing",
+    "name": "Digital Twins in Manufacturing: A Practical Guide to Getting",
+    "snippet": "3 Feb 2026 — A digital twin in manufacturing is a dynamic, real-time representation of your operations that mirrors the current state of physical assets, ... Read more",
+    "host_name": "materialize.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hexagon.com/company/divisions/manufacturing-intelligence/what-we-do/manufacturing-digital-twin",
+    "name": "True digital twin for manufacturers",
+    "snippet": "Digital twin is the key to accelerating manufacturing innovation combining real-world measurements with advanced analytics and artificial intelligence.",
+    "host_name": "hexagon.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2667344423000099",
+    "name": "Digital twin for smart manufacturing, A review",
+    "snippet": "2023 · Cited by 389 — A virtual representation of a physical procedure or product is called digital twin which can enhance efficiency and reduce costs in manufacturing process . Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nnit.com/insights/articles/digital-twin-technology-benefits",
+    "name": "What is Digital Twin Technology and How It Benefits",
+    "snippet": "A digital twin uses virtual and augmented reality as well as 3D graphic and data modeling to build a virtual model of a process, system, service, product, or ... Read more",
+    "host_name": "www.nnit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.itransition.com/manufacturing/blog/digital-twin",
+    "name": "Digital Twin in Manufacturing: a Guide for Businesses",
+    "snippet": "22 Jan 2026 — Manufacturing digital twins operate in a continuous loop cycle , with the virtual twin continuously mirroring the physical asset's state and ... Read more",
+    "host_name": "www.itransition.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization",
+    "name": "Transforming manufacturing with digital twins | McKinsey",
+    "snippet": "In fast-paced, continuous operations, factory digital twins—real-time virtual representations of the factory—provide manufacturers with the ability to support faster, smarter, and more cost-effective decision making.",
+    "host_name": "www.mckinsey.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

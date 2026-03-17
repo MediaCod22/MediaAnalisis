@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK543516",
+    "name": "Clinical Decision Support Systems - NCBI",
+    "snippet": "2018 · Cited by 255 — Clinical decision support (CDS) includes a variety of tools and interventions computerized as well as non- computerized. Read more",
+    "host_name": "www.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/s41746-020-0221-y",
+    "name": "An overview of clinical decision support systems: benefits,",
+    "snippet": "2020 · Cited by 3253 — A clinical decision support system (CDSS) is intended to improve healthcare delivery by enhancing medical decisions with targeted clinical knowledge. Read more",
+    "host_name": "www.nature.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Clinical_decision_support_system",
+    "name": "Clinical decision support system",
+    "snippet": "CDSS tools include alerts and reminders, clinical guidelines, condition-specific order sets, patient data summaries, diagnostic support, and context-aware ... Read more\nA clinical decision support system (CDSS) is a form of health information technology that provides clinicians, staff, patients, or other individuals with knowledge and person-specific information to enhance decision-making in clinical workflows.",
+    "host_name": "en.wikipedia.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/clinical-decision-support-system",
+    "name": "Clinical Decision Support System - an overview",
+    "snippet": "A clinical decision support (CDS) system is a computer-based system that analyzes available data to guide people through a clinical decision-making process. The ... Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.foreseemed.com/clinical-decision-support",
+    "name": "Clinical Decision Support Systems (CDSS)",
+    "snippet": "A clinical decision support system (CDSS) is to improve healthcare delivery by enhancing medical decisions with focused clinical knowledge, health data, and ... Read more",
+    "host_name": "www.foreseemed.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ahrq.gov/cpi/about/otherwebsites/clinical-decision-support/index.html",
+    "name": "Clinical Decision Support",
+    "snippet": "Clinical decision support (CDS) provides timely information, usually at the point of care , to help inform decisions about a patient's care. Read more",
+    "host_name": "www.ahrq.gov",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9377614",
+    "name": "Towards effective clinical decision support systems - PMC - NIH",
+    "snippet": "2022 · Cited by 133 — Clinical Decision Support Systems (CDSS) are used to assist the decision-making process in the healthcare field . Developing an effective CDSS is an arduous ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mocdoc.com/blog/clinical-decision-support-system-hospital-care",
+    "name": "Clinical Decision Support System (CDSS) for Hospitals",
+    "snippet": "23 Dec 2025 — AI-powered CDSS for 100-bed hospitals . Improve clinical decisions, reduce errors, and enhance patient outcomes with MocDoc.",
+    "host_name": "mocdoc.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://indiaai.gov.in/article/clinical-decision-support-system-a-comprehensive-overview",
+    "name": "Clinical decision support system: A comprehensive overview",
+    "snippet": "A Clinical Decision Support System (CDSS) is a technology-driven tool designed to assist healthcare professionals in making informed decisions . Read more",
+    "host_name": "indiaai.gov.in",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7005290",
+    "name": "An overview of clinical decision support systems: benefits",
+    "snippet": "In this paper, we provide a state-of-the-art overview on the use of clinical decision support systems in medicine, including the different types, current use cases with proven efficacy, common pitfalls, and potential harms.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

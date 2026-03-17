@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://apmonitor.com/me575/uploads/Main/optimization_book.pdf",
+    "name": "Optimization Methods for Engineering Design",
+    "snippet": "2013 · Cited by 204 — In summary, computer-based optimization refers to using computer algorithms to search the design space of a computer model . The design variables are adjusted ... 208 pages\nOptimization methods are somewhat generic in nature in that many methods work for wide variety of problems. After the connection has been made such that the optimization software can “talk” to the engineering model, we specify the set of design variables and objectives and constraints.",
+    "host_name": "apmonitor.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://buntyllc.com/design-optimization-methods",
+    "name": "4 Design Optimization Methods to Know About",
+    "snippet": "Topology optimization is a computational design method that optimizes material layout within a given design space for a set of performance targets. It does so ... Read more",
+    "host_name": "buntyllc.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/topics/engineering/design-optimization",
+    "name": "Design Optimization - an overview",
+    "snippet": "Design optimization is formulated by the search for the parameters involved in the design which minimize an objective function (initial costs, rigidity, etc.) Read more\nDesign optimization is defined as a design methodology that supports the selection of the optimal design among various potential designs using mathematical formulations, focusing on variables, objectives, constraints, and feasibility.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bqpsim.com/blogs/design-optimization-in-engineering",
+    "name": "Design Optimization in Engineering",
+    "snippet": "20 Jan 2026 — Techniques range from gradient-based and heuristic methods to multi-objective and topology optimization. Optimization results guide decisions, ... Read more",
+    "host_name": "www.bqpsim.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ftmd.itb.ac.id/id/event/short-course-modern-engineering-design-optimization",
+    "name": "Short Course: Modern Engineering Design Optimization",
+    "snippet": "2 days ago — The course covers classical optimization methods , multi-objective optimization, Bayesian optimization, topology optimization, robust design ... Read more",
+    "host_name": "ftmd.itb.ac.id",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://2021.help.altair.com/2021/hwsolvers/os/topics/solvers/os/design_optimization.htm",
+    "name": "Design Optimization",
+    "snippet": "Reliability-based Design Optimization (RBDO ) is an optimization method that can be used to provide optimum designs in the presence of uncertainty. Read more",
+    "host_name": "2021.help.altair.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Design_optimization",
+    "name": "Design optimization",
+    "snippet": "Design optimization is an engineering design methodology using a mathematical formulation of a design problem to support selection of the optimal design ... Read more\nThere are several domain-specific applications of design optimization posing their own specific challenges in formulating and solving the resulting problems; these include, shape optimization, wing-shape optimization, topology optimization, architectural design optimization, power optimization.",
+    "host_name": "en.wikipedia.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.engr.uvic.ca/~mech410/lectures/6a_Optimization.pdf",
+    "name": "Introduction to Design Optimization",
+    "snippet": "Optimization can provide either. – a closed- form solution , or. – a numerical solution. • Numerical optimization systematically and efficiently adjusts the. Read more 18 pages\nNumerical optimization systematically and efficiently adjusts the influencing variables to find the solution that has the best performance, satisfying given constraints. Frequently, the design objective, or cost function cannot be expressed in the form of simple algebra.",
+    "host_name": "www.engr.uvic.ca",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.discoverengineering.org/design-optimization-techniques",
+    "name": "Design Optimization Techniques - discoverengineering.org",
+    "snippet": "Explore design optimization techniques, including gradient-based methods, genetic algorithms, and simulated annealing, to enhance efficiency and performance.",
+    "host_name": "www.discoverengineering.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://web.mit.edu/16.810/www/16.810_L8_Optimization.pdf",
+    "name": "Design Optimization",
+    "snippet": "Goal: Find a design for a family of blended wing aircraft that will combine aerodynamics, structures, propulsion and controls such that a competitive system emerges - as measured by a set of operator metrics.",
+    "host_name": "web.mit.edu",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

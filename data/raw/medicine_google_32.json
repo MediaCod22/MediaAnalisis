@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK597466",
+    "name": "Electronic Health Records as Source of Research Data - NCBI",
+    "snippet": "2023 · Cited by 28 — EHRs are real-time, patient-centered records that make information available instantly and securely to authorized users. EHRs have been adopted ...",
+    "host_name": "www.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cms.gov/priorities/key-initiatives/e-health/records",
+    "name": "Electronic Health Records",
+    "snippet": "10 Sept 2024 — An Electronic Health Record (EHR) is an electronic version of a patients medical history , that is maintained by the provider over time.",
+    "host_name": "www.cms.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.oracle.com/health/electronic-health-records-ehr",
+    "name": "Electronic Health Records (EHRs) Explained",
+    "snippet": "18 Nov 2025 — EHRs help improve the speed and accuracy of coding and billing by automating data entry and treatment code selection. They also connect to ...",
+    "host_name": "www.oracle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2589750022001546",
+    "name": "Leveraging electronic health records for data science",
+    "snippet": "2022 · Cited by 180 — Analysis of electronic health records (EHRs ) is an increasingly common approach for studying real-world patient data. Use of routinely collected data offers ...",
+    "host_name": "www.sciencedirect.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Electronic_health_record",
+    "name": "Electronic health record",
+    "snippet": "EHR systems may also support improvements in quality of care through the use of data and analytics to help prevent hospitalizations among high-risk patients.",
+    "host_name": "en.wikipedia.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551878",
+    "name": "Obtaining Data From Electronic Health Records - - NCBI - NIH",
+    "snippet": "2019 · Cited by 238 — EHRs contain different types of patient-level variables, such as demographics, diagnoses, problem lists, medications, vital signs, and laboratory data .",
+    "host_name": "www.ncbi.nlm.nih.gov",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.physio-pedia.com/Electronic_Medical_Records",
+    "name": "Electronic Medical Records",
+    "snippet": "It is a record in digital format that is capable of being shared across different health care settings, by being embedded in network-connected enterprise-wide ...",
+    "host_name": "www.physio-pedia.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/research-intelligence/nri-topic-summaries/predictive-analytics-in-healthcare-using-electronic-health-records-micro-54431",
+    "name": "Predictive Analytics in Healthcare Using Electronic Health",
+    "snippet": "Recent studies have pushed the boundaries of predictive analytics through sophisticated deep learning architectures. One study enhanced predictive performance ...",
+    "host_name": "www.nature.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.seejph.com/index.php/seejph/article/view/913",
+    "name": "Development Of Electronic Data Analytics For Public",
+    "snippet": "2 Sept 2024 — The process of assessing patient data that is taken from various medical devices is known as health care analytics . The patient's condition is ...",
+    "host_name": "www.seejph.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11757985",
+    "name": "Twenty-Five Years of Evolution and Hurdles in Electronic",
+    "snippet": "From early documentation practices to the sophisticated use of artificial intelligence and big data analytics today, EHRs have become central to improving patient care, enhancing public health surveillance, and advancing medical research.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

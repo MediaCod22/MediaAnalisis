@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://business.adobe.com/blog/basics/marketing-attribution",
+    "name": "Marketing attribution — models and best practices",
+    "snippet": "Marketing attribution is the process of determining which interactions influence a customer to purchase from your brand.",
+    "host_name": "business.adobe.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.appsflyer.com/glossary/attribution-modeling",
+    "name": "What is attribution modeling? - AppsFlyer",
+    "snippet": "Attribution modeling is a way of measuring how effective marketing campaigns and channels are at influencing people to take a desired action.",
+    "host_name": "www.appsflyer.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.adjust.com/glossary/attribution-modeling",
+    "name": "What is attribution modeling? - Adjust",
+    "snippet": "Attribution modeling, also known as channel attribution modeling, is the process of assigning credit to various marketing channels or touchpoints.",
+    "host_name": "www.adjust.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Attribution_(marketing)",
+    "name": "Attribution (marketing) - Wikipedia",
+    "snippet": "In marketing, attribution, also known as multi-touch attribution (MTA), is the identification of a set of user actions (\"events\" or \"touchpoints\") that ...",
+    "host_name": "en.wikipedia.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://advertising.amazon.com/library/guides/marketing-attribution",
+    "name": "What is Marketing Attribution? A Comprehensive Guide - Amazon Ads",
+    "snippet": "Marketing attribution models enable advertisers to measure and optimize the unique touchpoints that lead to conversions and sales.",
+    "host_name": "advertising.amazon.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aerospike.com/blog/what-is-attribution-modeling",
+    "name": "What Is Attribution Modeling? Types and Benefits - Aerospike",
+    "snippet": "Attribution modeling assigns proportional credit to each brand interaction a prospect has before converting, giving marketers a data-driven ...",
+    "host_name": "aerospike.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hiredigital.com/blog/attribution-modeling",
+    "name": "6 Types of Attribution Models That Marketers Should Know | Digital",
+    "snippet": "In today's article, we want to talk about attribution modeling – a method used to assess the efficiency of the marketing channels used for a particular campaign ...",
+    "host_name": "hiredigital.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://amplitude.com/blog/attribution-model-frameworks",
+    "name": "A Beginner's Guide to Attribution Model Frameworks - Amplitude",
+    "snippet": "An attribution model is a framework for determining how to credit different marketing activities for conversions.",
+    "host_name": "amplitude.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.salesforce.com/blog/what-is-marketing-attribution-model",
+    "name": "Marketing Attribution: All You Need to Know - Salesforce",
+    "snippet": "Marketing attribution is the way in which marketers assess the value or ROI of the channels that connect them to potential customers.",
+    "host_name": "www.salesforce.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://modo25.com/news-insights/marketing-mix-modeling/marketing-attribution-models-a-complete-guide-for-modern-marketers",
+    "name": "Marketing attribution models: A complete guide for modern marketers",
+    "snippet": "A marketing attribution model is a framework used to assign value to each interaction a customer has with your brand before making a purchase.",
+    "host_name": "modo25.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

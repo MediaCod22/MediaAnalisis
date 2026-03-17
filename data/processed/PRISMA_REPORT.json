@@ -1,0 +1,24 @@
+{
+  "methodology": "PRISMA",
+  "processed_at": "2026-03-17T17:38:33.613667",
+  "stages": {
+    "identified": 2224,
+    "after_deduplication": 2055,
+    "after_relevance": 1845,
+    "final": 1845
+  },
+  "sectors": {
+    "marketing": 255,
+    "finance": 349,
+    "education": 270,
+    "medicine": 225,
+    "IT": 482,
+    "engineering": 250,
+    "bubbles": 14
+  },
+  "quality_distribution": {
+    "high": 68,
+    "medium": 1008,
+    "low": 769
+  }
+}

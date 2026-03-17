@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.servicenow.com/products/devops/what-is-devops-automation.html",
+    "name": "What is DevOps Automation? - ServiceNow",
+    "snippet": "DevOps automation automates tasks and ensures proper feedback loops between operations and development teams throughout the development lifecycle.",
+    "host_name": "www.servicenow.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/atmosly/what-is-devops-automation-23df1b8acdac",
+    "name": "DevOps Automation: Tools, Benefits & Best Practices for Faster",
+    "snippet": "DevOps automation is the practice of using technology to automate repetitive, manual tasks throughout the software development lifecycle (SDLC).",
+    "host_name": "medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.opentext.com/what-is/devops-automation",
+    "name": "What is DevOps Automation? - OpenText",
+    "snippet": "DevOps automation is the practice of streamlining and accelerating the software development lifecycle by reducing manual effort and introducing intelligent, ...",
+    "host_name": "www.opentext.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tutorialspoint.com/devops/devops-automation.htm",
+    "name": "DevOps - Automation - TutorialsPoint",
+    "snippet": "Automation in DevOps is the key part of modern software development. It helps us speed up our workflows, reduce mistakes, and make our systems more efficient.",
+    "host_name": "www.tutorialspoint.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cortex.io/post/devops-automation",
+    "name": "DevOps Automation: Unlock Efficiency, Improve Responsiveness",
+    "snippet": "Master DevOps automation to streamline workflows, boost deployment speed, and improve software quality. Read now to discover benefits and ...",
+    "host_name": "www.cortex.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.flexera.com/blog/finops/ci-cd-devops-automation-benefits-use-cases-and-measuring-success",
+    "name": "DevOps automation: Benefits, use cases, and measuring success",
+    "snippet": "DevOps automation refers to the process of automating ...",
+    "host_name": "www.flexera.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.copado.com/resources/blog/how-devops-principles-guide-developer-decision-making",
+    "name": "How DevOps Principles Guide Developer Decision-Making - Copado",
+    "snippet": "This blog discusses how DevOps principles give developers a larger role in the SDLC and more power to effect change in their organization.",
+    "host_name": "www.copado.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DSpqbAqshUOM",
+    "name": "Automation Decision Services - Using DevOps Tools - YouTube",
+    "snippet": "See how ADS projects can be built and deployed using dev ops tools such as git, Maven and Jenkins.",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://builder.aws.com/content/39qpok8bypDNdLQC4xHvFTOwiNk/devops-ai-decision-engine",
+    "name": "DevOps AI Decision Engine - AWS Builder Center",
+    "snippet": "AI is most powerful when used as decision support, not as blind automation. Combining rules + AI creates more reliable systems. Event-driven ...",
+    "host_name": "builder.aws.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://intellisoft.io/devops-automation-a-complete-guide-to-efficient-development",
+    "name": "DevOps Automation: A Complete Guide to Efficient Development",
+    "snippet": "Explore the world of DevOps automation with our ultimate guide. Dive into the essential concepts, top 10 tools, industry best practices, and future trends.",
+    "host_name": "intellisoft.io",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

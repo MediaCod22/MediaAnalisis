@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://habr.com/ru/articles/986710",
+    "name": "ТОП-5 Российских SCADA-систем 2026",
+    "snippet": "1) SCADA TRACE MODE 7. SCADA TRACE MODE 7 · 2) SCADA КРУГ-2000. НПФ \"КРУГ\" · 3) MASTER SCADA 4D. MASTER SCADA ...\nПоэтому представляю обновленный рейтинг ТОП-5 российских SCADA 2026, представляющий 5 основных наших SCADA-систем.",
+    "host_name": "habr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vc.ru/id4072008/2789006-analitika-big-data-v-scada-prognozirovanie-i-optimizatsiya-protsessov",
+    "name": "Аналитика Big Data в SCADA: от мониторинга к прогнозу",
+    "snippet": "7 days ago — Аналитика Big Data в SCADA , предиктивное обслуживание, поиск аномалий, прогнозирование ресурсов, оптимизация производства с ООО «Альянс ...\nС ООО «Альянс Автоматика» ваша SCADA-система становится мощным аналитическим центром, который видит скрытые резервы эффективности и предупреждает о рисках задолго до их реализации.",
+    "host_name": "vc.ru",
+    "rank": 1,
+    "date": "Mar 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:SCADA_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC",
+    "name": "SCADA назначение систем",
+    "snippet": "7 Oct 2025 — SCADA — это специализированное программное обеспечение, которое используется для диспетчерского управления и сбора данных в реальном времени. Т ...",
+    "host_name": "www.tadviser.ru",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://research-center.ru/analiz-rynka-scada-sistem",
+    "name": "Анализ рынка SCADA-систем",
+    "snippet": "SCADA - системы – это программные пакеты, предназначенные для разработки или обеспечения работы в реальном времени систем сбора, обработки, отображения и.",
+    "host_name": "research-center.ru",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ivctl.ru/o-kompanii/blog/scada-sistema-chto-eto-takoe",
+    "name": "SCADA-система: что это такое",
+    "snippet": "Система управления SCADA – это удобное и мощное программное обеспечение, которое используется для автоматизации промышленных и инженерных объектов. Она собирает ...",
+    "host_name": "ivctl.ru",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.simplight.ru/scada-sistemy-naznachenie-zadachi-struktura-osobennosti",
+    "name": "SCADA-системы: назначение, задачи, структура",
+    "snippet": "27 Aug 2024 — Они обеспечивают централизованное управление, сбор и обработку данных, мониторинг и контроль процессов, что позволяет повысить эффективность и ...",
+    "host_name": "blog.simplight.ru",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.brizmotors.ru/useful/article/scada-sistema-v-elektroenergetike-chto-eto-kak-rabotaet-i-zachem-nuzhna-na-elektrostantsiyakh",
+    "name": "SCADA-система в электроэнергетике: что это, как",
+    "snippet": "SCADA-система (Supervisory Control and Data Acquisition) - это программное обеспечение, которое собирает, анализирует и визуализирует данные о работе ...",
+    "host_name": "www.brizmotors.ru",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://habr.com/ru/articles/915138",
+    "name": "Рекомендации по выбору SCADA",
+    "snippet": "3 Jun 2025 — SCADA – наиболее распространенное программное решение для управления процессами на многих вертикальных рынках промышленного производства и инже ...\nНиже приведен список из трех десятков критериев, которые имеют решающее значение для принятия решения по выбору вашей SCADA-системы.",
+    "host_name": "habr.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://scienceforum.ru/2022/article/2018028735",
+    "name": "Аналитический обзор SCADA-систем",
+    "snippet": "Для этого используются SCADA (SupervisoryControlAndDataAcquisition)-системы – программно-аппаратный комплекс, предназначенный для контроля со стороны диспетчер ...",
+    "host_name": "scienceforum.ru",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dzen.ru/a/aNyS_EorFByIpXeD",
+    "name": "SCADA-системы за 5 минут: просто о сложном | Rubiсon",
+    "snippet": "SCADA позволяет автоматически собирать и анализировать данные, что помогает выявлять уязвимые места, оптимизировать работу, а также увеличивать производительность.",
+    "host_name": "dzen.ru",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

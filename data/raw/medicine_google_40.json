@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://ictr.johnshopkins.edu/service/informatics/pmap",
+    "name": "Precision Medicine Analytics Platform (PMAP)",
+    "snippet": "PMAP is a dual nature resource, comprising a very large-scale data repository in the Microsoft Azure cloud, and a cloud-based analytics and knowledge delivery ...",
+    "host_name": "ictr.johnshopkins.edu",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pm.jh.edu/platform-pmap",
+    "name": "Precision Medicine Analytics Platform (PMAP)",
+    "snippet": "PMAP aims to revolutionize how health centers can continuously and more affordably improve their patient and population health outcomes through modern data ...",
+    "host_name": "pm.jh.edu",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://rewoso.com/what-we-do-precision-medicine-analytics",
+    "name": "Precision Medicine Analytics",
+    "snippet": "Our multi-disciplinary team generates precise results for identifying patient subgroups, predicting treatment effectiveness, and enabling personalized ...",
+    "host_name": "rewoso.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6477571",
+    "name": "Health Care and Precision Medicine Research: Analysis of a",
+    "snippet": "2019 · Cited by 107 — We describe how an integrated data lake and analytics platform can be used to provide near real-time access to health care and biomedical research data and the ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmp.heart.org",
+    "name": "Precision Medicine Platform: AHA",
+    "snippet": "The Precision Medicine Platform is a cloud-based system that allows researchers to collaborate and analyze large datasets from any computer in the world.",
+    "host_name": "pmp.heart.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/B9780128014967000034",
+    "name": "Data analytics for precision medicine",
+    "snippet": "2019 — Data analytics for precision medicine often focus on the derivation of novel tools for patient diagnosis, prognosis, or subtyping.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/d42473-020-00349-9",
+    "name": "Advancing precision medicine using AI and big data",
+    "snippet": "AI is transforming medical research by revealing data patterns that can be used to predict disease and treatment outcomes for individual patients.",
+    "host_name": "www.nature.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.etkho.com/en/data-analysis-and-precision-medicine-a-successful-relationship",
+    "name": "Data analysis and precision medicine: a successful",
+    "snippet": "Mar 25, 2024 — Data analytics has become a cornerstone of precision medicine by enabling doctors and scientists to extract meaningful insights from vast, complex data sets.",
+    "host_name": "www.etkho.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.thermofisher.com/tw/zt/home/clinical/precision-medicine.html",
+    "name": "Precision Medicine | Thermo Fisher Scientific - TW",
+    "snippet": "Thermo Fisher Scientific's Precision Medicine initiative provides health and science innovators industry-leading capabilities , from population ...",
+    "host_name": "www.thermofisher.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medicine-matters.blogs.hopkinsmedicine.org/2020/07/introduction-to-precision-medicine-data-analytics",
+    "name": "Introduction to Precision Medicine Data Analytics",
+    "snippet": "Jul 30, 2020 — This course will introduce students to the rapidly evolving field of precision medicine and the role of big data analytics in improving patient care.",
+    "host_name": "medicine-matters.blogs.hopkinsmedicine.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
