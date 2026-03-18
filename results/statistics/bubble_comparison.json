@@ -1,0 +1,52 @@
+{
+  "dotcom": {
+    "total": 71,
+    "keywords": {
+      "bubble": 77,
+      "crash": 8,
+      "hype": 7,
+      "IPO": 24,
+      "investment": 4,
+      "speculation": 1,
+      "crisis": 1,
+      "loss": 0
+    },
+    "top_domains": {
+      "www.reddit.com": 4,
+      "www.sciencedirect.com": 3,
+      "www.theguardian.com": 3,
+      "www.researchgate.net": 2,
+      "time.com": 2,
+      "medium.com": 2,
+      "ru.investing.com": 2,
+      "www.rbc.ru": 2,
+      "www.kommersant.ru": 2,
+      "www.scirp.org": 1
+    }
+  },
+  "ai": {
+    "total": 71,
+    "keywords": {
+      "bubble": 59,
+      "hype": 17,
+      "investment": 11,
+      "valuation": 11,
+      "speculation": 0,
+      "generative": 4,
+      "GPT": 1,
+      "overvalued": 0
+    },
+    "top_domains": {
+      "www.reddit.com": 3,
+      "www.janushenderson.com": 2,
+      "www.reuters.com": 2,
+      "habr.com": 2,
+      "www.theguardian.com": 2,
+      "intuitionlabs.ai": 1,
+      "www.nytimes.com": 1,
+      "theconversation.com": 1,
+      "fortune.com": 1,
+      "cfi.trade": 1
+    }
+  }
+}

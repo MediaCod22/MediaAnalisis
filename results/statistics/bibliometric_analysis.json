@@ -1,0 +1,31 @@
+{
+  "total_materials": 98,
+  "academic_sources": 34,
+  "academic_ratio": 0.347,
+  "media_keywords": {
+    "media": 47,
+    "social media": 26,
+    "media analytics": 12,
+    "sentiment": 9,
+    "media monitoring": 8
+  },
+  "decision_keywords": {
+    "decision": 37,
+    "management": 14,
+    "decision support": 5,
+    "decision making": 4
+  },
+  "intersection_rate": 35.71,
+  "intersection_by_domain": {
+    "www.researchgate.net": 4,
+    "www.sciencedirect.com": 3,
+    "journals.sagepub.com": 2,
+    "forthworthjournals.org": 1,
+    "www.rimakjournal.com": 1,
+    "ira.lib.polyu.edu.hk": 1,
+    "muckrack.com": 1,
+    "www.aimtechnologies.co": 1,
+    "mediaboard.com": 1,
+    "itscience-indexing.com": 1
+  }
+}
